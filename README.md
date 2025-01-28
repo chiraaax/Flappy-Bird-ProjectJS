@@ -1,2 +1,2 @@
 # Flappy-Bird-ProjectJS
-Kaboom + JS based Flappy-Bird game
+Kaboom + JS based Flappy-Bird game project
